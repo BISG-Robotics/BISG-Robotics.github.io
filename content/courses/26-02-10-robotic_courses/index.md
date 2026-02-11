@@ -5,7 +5,7 @@ image:
   focal_point: "top"
 ---
 
-Taking courses and reading books are very important for fresh researchers. Here, the courses and books are suitable for the researchers who are interesting in Computer Vision, Simultaneous Localization and Mapping (SLAM), Deep Learning, etc.
+Taking courses and reading books are very important for fresh researchers. Here, the courses and books are suitable for the researchers who are interesting in Computer Vision, Simultaneous Localization and Mapping (SLAM), Deep Learning, Robotics, etc.
 
 <!--more-->
 
