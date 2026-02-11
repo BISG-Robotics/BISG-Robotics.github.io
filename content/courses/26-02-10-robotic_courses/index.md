@@ -1,6 +1,6 @@
 ---
 title: Courses and Books for Fresh Researchers
-date: 2026-02-10
+date: 2026-02-11
 image:
   focal_point: "top"
 ---
