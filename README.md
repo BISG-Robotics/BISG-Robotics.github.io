@@ -88,7 +88,7 @@
 ## 4. Submit revisions
 
 1. **Submit revisions：**
-   - After revisions，commiting to `BISG-Robotics.github.io`. Submitting `message` should be “your_name”， such as：`Juha roning`.
+   - After revisions，commiting to `BISG-Robotics.github.io`. Submitting `message` should be “your_name”， such as：`Juha Röning`.
    - Back to your repo, BISG-Robotics.github.io, and click **Sync Fork**.
    - Click **Open Pull Request**, and then click **Create Pull Request**, and then click **Create Pull Request** to submit.
 
