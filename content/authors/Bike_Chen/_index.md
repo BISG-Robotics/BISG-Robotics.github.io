@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bike Chen 陈必科
+title: Bike Chen
 
 # Full name (for SEO)
 first_name: Bike
@@ -22,14 +22,15 @@ organizations:
     url: 'https://www.oulu.fi/en'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include semantic image segmentation, point cloud segmentation, SLAM, and foundation models.
+bio: My research interests include semantic image segmentation, point cloud segmentation, SLAM, LLM, and VLA.
 
 interests:
   - Semantic Image Segmentation
   - Point Cloud Segmentation
   - SLAM
   - Robotics
-  - Foundation Models
+  - LLM
+  - VLM
   - AI Infrastructure
 
 education:
@@ -76,4 +77,4 @@ user_groups:
   - Postdoctoral Researchers
 ---
 
-Bike Chen (陈必科) is a postdoctoral researcher at the Biomimetics and Intelligent Systems Group (BISG), University of Oulu, Finland. He obtained the Ph.D. degree at the University of Oulu, Finland, in 2025. He received the M.S. degree in Pattern Recognition and Intelligent Systems from Nanjing University of Science and Technology, China, in 2018. He has published technical papers at prominent conferences and journals, such as the International Joint Conference on Artificial Intelligence (IJCAI), IEEE Transactions on Intelligent Transportation Systems (T-ITS), and IEEE Transactions on Intelligent Vehicles (T-IV). His current research interests include Deep Learning, 2D Image Segmentation, 3D Point Cloud Segmentation, Simultaneous Localization and Mapping (SLAM), Robotics, and Foundation Models.
+Bike Chen is a postdoctoral researcher at the Biomimetics and Intelligent Systems Group (BISG), University of Oulu, Finland. He obtained the Ph.D. degree at the University of Oulu, Finland, in 2025. He received the M.S. degree in Pattern Recognition and Intelligent Systems from Nanjing University of Science and Technology, China, in 2018. He has published technical papers at prominent conferences and journals, such as the International Joint Conference on Artificial Intelligence (IJCAI), IEEE Transactions on Intelligent Transportation Systems (T-ITS), and IEEE Transactions on Intelligent Vehicles (T-IV). His current research interests include Deep Learning, 2D Image Segmentation, 3D Point Cloud Segmentation, Simultaneous Localization and Mapping (SLAM), Robotics, LLM, and VLA.
