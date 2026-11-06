@@ -1,4 +1,4 @@
-# How to upload personal information and contributions.
+# How to upload personal information and make contributions.
 
 ## WARNING
 - Please **DO NOT REVISE** the folder not belonging to yourself.
@@ -13,19 +13,19 @@
 2. **Clone your repo：**
    - Clone your repo `BISG-Robotics.github.io` locally.
      ```bash
-     git clone https://github.com/your_user_name/BISG-Robotics.github.io.git
+     https://github.com/BISG-Robotics/BISG-Robotics.github.io.git
      ```
 
 3. **Create a folder：**
    - Open `BISG-Robotics.github.io/content/authors` folder and create a new folder.
-   - Rename the folder. The format is：`first_name， last_name`.
+   - Rename the folder. The format is：`First_name_Last_name`.
 
 4. **Copy the template：**
-   - Copy `BISG-Robotics.github.io/templates/people_template/_index.md` to the `content/authors` folder.
+   - Change the template author's name to your name and copy `BISG-Robotics.github.io/templates/your_name/_index.md` to the `content/authors` folder.
    - Change you personal information.
 
 5. **Upload your photo：**
-   - Put your photo in the folder with name `avatar.jpg`.
+   - Put your photo in your folder with name `avatar.jpg`.
 
 ---
 
@@ -35,11 +35,11 @@
 
 1. **Create a folder for your paper：**
    - Create a new folder in `BISG-Robotics.github.io/content/publication/conference-paper` and give the name in the following format:
-     - `conference+year-your_name-your_paper_name`
-     - For example：`icra2026-juha-slam`
+     - `your_name_brief_title_year`
+     - For example：`juha_slam_2026`
 
 2. **Copy the template：**
-   - Copy `BISG-Robotics.github.io/templates/publication_template/conference-paper_template` to the conference folder：
+   - Copy `BISG-Robotics.github.io/templates/juha_hypercc_2023` to the conference folder：
      - `cite.bib`
      - `index.md`
      - `conference-paper.pdf`
@@ -54,11 +54,11 @@
 
 1. **Create a journal paper folder：**
    - Create a new folder in `BISG-Robotics.github.io/content/publication/journal-article` and give the name with the format：
-     - `journal_name+year-your_name-your_paper_name`
-     - For example：`ijrr2026-juha-slam`
+     - `your_name_brief_title_year`
+     - For example：`juha_slam_2026`
 
 2. **Copy the template：**
-   - Copy the following 3 files from `BISG-Robotics.github.io/templates/publication_template/journal-article_template`:
+   - Copy the following 3 files from `BISG-Robotics.github.io/templates/juha_hypercc_2023`:
      - `cite.bib`
      - `index.md`
      - `featured.jpg` or `featured.png`
@@ -76,7 +76,7 @@
      - e.g., `25-09-01-SIX-ManuGenius`
 
 2. **Copy the template：**
-   - Copy the following 2 files from `BISG-Robotics.github.io/templates/news_template` to the news folder：
+   - Copy the following 2 files from `BISG-Robotics.github.io/templates/26-11-06_news` to the news folder：
      - `index.md`
      - `featured.jpg` or `featured.png`
 
@@ -86,6 +86,9 @@
 ---
 
 ## 4. Submit revisions
+
+#### You could let the manager to submit revisions if you are not familiar with Github.
+
 
 1. **Submit revisions：**
    - After revisions，commiting to `BISG-Robotics.github.io`. Submitting `message` should be “your_name”， such as：`Juha Röning`.
