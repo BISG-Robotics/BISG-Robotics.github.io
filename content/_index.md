@@ -11,7 +11,18 @@ sections:
       title: 
       text:
         <br>
-        The mission of the BISG-Robotics group is to study and develop methods, theories, sensors and platforms for creating mobile robots that are adaptive and capable of performing purposeful tasks in cooperation with humans. The group has participated many robotic EU framework projects and has been granted research fundings from Tekes / Business Finland and Academy of Finland for more than ten millions euros. Robotics research activity at BISG includes collaboration with processing industry.
+        BISG-Robotics is a multidisciplinary team developing intelligent, autonomous, human-centered robots for real-world challenges, with a strong Arctic focus. We combine perception, machine learning, decision-making, human-robot interaction, and embedded systems for safe, reliable operation even in challenging arctic conditions.
+
+        Our research centres on four areas:
+
+        1. multimodal perception and scene understanding
+        2. robot learning and autonomous decision-making,
+        3. human-aware interaction and
+        4. safety, and resource-efficient embedded computing.
+
+        We fuse data from cameras, LiDAR, radar, and ground-penetrating radar for robust perception in poor visibility and changing conditions, and design architectures that run reliably on power-limited platforms.
+
+        Application areas include industrial automation, logistics, field and outdoor robotics, environmental and forest surveying, and health technology. Our Arctic focus adds emphasis on snow-covered terrain, subsurface sensing, and infrastructure monitoring. We develop impactful sensor technologies and AI-driven autonomy to strengthen industrial competitiveness and support a sustainable, inclusive future.
       design:
         view: card
         columns: '1'
