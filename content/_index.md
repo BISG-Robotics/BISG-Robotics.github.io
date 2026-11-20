@@ -13,7 +13,7 @@ sections:
         <br>
         BISG-Robotics is a multidisciplinary team developing intelligent, autonomous, human-centered robots for real-world challenges, with a strong Arctic focus. We combine perception, machine learning, decision-making, human-robot interaction, and embedded systems for safe, reliable operation even in challenging arctic conditions.
 
-        Our research centres on four areas:
+        Our research centres on four areas
 
         1. multimodal perception and scene understanding
         2. robot learning and autonomous decision-making,
